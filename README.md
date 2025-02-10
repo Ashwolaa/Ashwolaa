@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there 👋
+
+I am a Python afficionados that loves developing analysis and data acquisition software for my research and my pleasure. This combines both backends and GUI with Qt libraries.
 
 <!--
 **Ashwolaa/Ashwolaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
